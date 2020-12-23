@@ -1,0 +1,16 @@
+PODS:
+  - StarFuture (0.1.0)
+
+DEPENDENCIES:
+  - StarFuture (from `../`)
+
+EXTERNAL SOURCES:
+  StarFuture:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StarFuture: 627464f3f974c3252c3a1bd1b415a3a189842237
+
+PODFILE CHECKSUM: 802a76fdd9ef022c4b85e46bfd7cddda83814b91
+
+COCOAPODS: 1.9.3
