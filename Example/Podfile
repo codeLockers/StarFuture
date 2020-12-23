@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'StarFuture_Example' do
+  pod 'StarFuture', :path => '../'
+
+  target 'StarFuture_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
